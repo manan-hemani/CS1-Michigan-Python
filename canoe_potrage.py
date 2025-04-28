@@ -1,0 +1,10 @@
+num=input("Enter Rods ")
+num_float=float(num)
+print("Your Input ",num_float)
+
+print("\nCoversions")
+print("Meters: ",num_float*5.0292)
+print("Feet: ",num_float*16.5)
+print("Miles: ",num_float*0.0031250077671592085)
+print("Furlongs: ",num_float*0.025)
+print("Minutes to walk 1 rods: ",num_float*0.060484021299855646)
