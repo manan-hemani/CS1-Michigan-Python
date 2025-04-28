@@ -1,0 +1,8 @@
+temperature=input("Please Enter the Temperature (degrees F): ")
+wind_speed=input("\nPlease Enter the Wind Speed (MPH): ")
+temperature_float=float(temperature)
+wind_speed_float=float(wind_speed)
+wind_chill_index=(35.74+(0.6215*temperature_float))-(35.75*(wind_speed_float**0.16))+(0.4275*(temperature_float*(wind_speed_float**0.16)))
+print("\nTemperature (degree F): ",temperature_float)
+print("Wind speed (MPH): ",wind_speed_float)
+print("Wind Chill Temperature Index: ",wind_chill_index)
