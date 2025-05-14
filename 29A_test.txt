@@ -1,0 +1,191 @@
+Afghanistan                                        WB_LI   27 Eastern Mediterranean     2000
+Albania                                            WB_LMI  95 Europe                    2000
+Algeria                                            WB_UMI  80 Africa                    2000
+Andorra                                            WB_HI   97 Europe                    2000
+Angola                                             WB_LMI  41 Africa                    2000
+Antigua and Barbuda                                WB_HI   95 Americas                  2000
+Argentina                                          WB_UMI  91 Americas                  2000
+Armenia                                            WB_LMI  92 Europe                    2000
+Australia                                          WB_HI   91 Western Pacific           2000
+Austria                                            WB_HI   75 Europe                    2000
+Azerbaijan                                         WB_LMI  67 Europe                    2000
+Bahamas                                            WB_HI   93 Americas                  2000
+Bahrain                                            WB_HI   98 Eastern Mediterranean     2000
+Bangladesh                                         WB_LI   72 South-East Asia           2000
+Barbados                                           WB_HI   94 Americas                  2000
+Belarus                                            WB_UMI  98 Europe                    2000
+Belgium                                            WB_HI   82 Europe                    2000
+Belize                                             WB_LMI  96 Americas                  2000
+Benin                                              WB_LI   70 Africa                    2000
+Bhutan                                             WB_LMI  78 South-East Asia           2000
+Bolivia (Plurinational State of)                   WB_LMI  84 Americas                  2000
+Bosnia and Herzegovina                             WB_UMI  80 Europe                    2000
+Botswana                                           WB_UMI  91 Africa                    2000
+Brazil                                             WB_UMI  99 Americas                  2000
+Brunei Darussalam                                  WB_HI   99 Western Pacific           2000
+Bulgaria                                           WB_UMI  89 Europe                    2000
+Burkina Faso                                       WB_LI   48 Africa                    2000
+Burundi                                            WB_LI   72 Africa                    2000
+Cabo Verde                                         WB_LMI  86 Africa                    2000
+Cambodia                                           WB_LI   65 Western Pacific           2000
+Cameroon                                           WB_LMI  49 Africa                    2000
+Canada                                             WB_HI   96 Americas                  2000
+Central African Republic                           WB_LI   36 Africa                    2000
+Chad                                               WB_LI   28 Africa                    2000
+Chile                                              WB_UMI  97 Americas                  2000
+China                                              WB_LMI  84 Western Pacific           2000
+Colombia                                           WB_UMI  88 Americas                  2000
+Comoros                                            WB_LI   70 Africa                    2000
+Congo                                              WB_LMI  34 Africa                    2000
+Cook Islands                                       WB_HI   76 Western Pacific           2000
+Costa Rica                                         WB_UMI  82 Americas                  2000
+Cote d'Ivoire                                      WB_LMI  68 Africa                    2000
+Croatia                                            WB_HI   93 Europe                    2000
+Cuba                                               WB_UMI  94 Americas                  2000
+Cyprus                                             WB_HI   86 Europe                    2000
+Czech Republic                                     WB_HI   98 Europe                    2000
+Democratic People's Republic of Korea              WB_LI   78 South-East Asia           2000
+Democratic Republic of the Congo                   WB_LI   46 Africa                    2000
+Denmark                                            WB_HI   99 Europe                    2000
+Djibouti                                           WB_LMI  50 Eastern Mediterranean     2000
+Dominica                                           WB_UMI  99 Americas                  2000
+Dominican Republic                                 WB_UMI  85 Americas                  2000
+Ecuador                                            WB_LMI  99 Americas                  2000
+Egypt                                              WB_LMI  98 Eastern Mediterranean     2000
+El Salvador                                        WB_LMI  97 Americas                  2000
+Equatorial Guinea                                  WB_HI   51 Africa                    2000
+Eritrea                                            WB_LI   76 Africa                    2000
+Estonia                                            WB_HI   93 Europe                    2000
+Ethiopia                                           WB_LI   33 Africa                    2000
+Fiji                                               WB_UMI  81 Western Pacific           2000
+Finland                                            WB_HI   96 Europe                    2000
+France                                             WB_HI   84 Europe                    2000
+Gabon                                              WB_UMI  55 Africa                    2000
+Gambia                                             WB_LI   89 Africa                    2000
+Georgia                                            WB_LMI  73 Europe                    2000
+Germany                                            WB_HI   92 Europe                    2000
+Ghana                                              WB_LI   90 Africa                    2000
+Greece                                             WB_HI   89 Europe                    2000
+Grenada                                            WB_UMI  92 Americas                  2000
+Guatemala                                          WB_LMI  86 Americas                  2000
+Guinea                                             WB_LI   42 Africa                    2000
+Guinea-Bissau                                      WB_LI   71 Africa                    2000
+Guyana                                             WB_LMI  86 Americas                  2000
+Haiti                                              WB_LI   55 Americas                  2000
+Honduras                                           WB_LMI  98 Americas                  2000
+Hungary                                            WB_HI   99 Europe                    2000
+Iceland                                            WB_HI   91 Europe                    2000
+India                                              WB_LMI  59 South-East Asia           2000
+Indonesia                                          WB_LMI  76 South-East Asia           2000
+Iran (Islamic Republic of)                         WB_LMI  99 Eastern Mediterranean     2000
+Iraq                                               WB_LMI  86 Eastern Mediterranean     2000
+Ireland                                            WB_HI   79 Europe                    2000
+Israel                                             WB_HI   97 Europe                    2000
+Italy                                              WB_HI   74 Europe                    2000
+Jamaica                                            WB_UMI  88 Americas                  2000
+Japan                                              WB_HI   96 Western Pacific           2000
+Jordan                                             WB_LMI  94 Eastern Mediterranean     2000
+Kazakhstan                                         WB_UMI  99 Europe                    2000
+Kenya                                              WB_LI   78 Africa                    2000
+Kiribati                                           WB_LMI  80 Western Pacific           2000
+Kuwait                                             WB_HI   99 Eastern Mediterranean     2000
+Kyrgyzstan                                         WB_LI   98 Europe                    2000
+Lao People's Democratic Republic                   WB_LI   42 Western Pacific           2000
+Latvia                                             WB_UMI  97 Europe                    2000
+Lebanon                                            WB_UMI  71 Eastern Mediterranean     2000
+Lesotho                                            WB_LMI  74 Africa                    2000
+Liberia                                            WB_LI   63 Africa                    2000
+Libya                                              WB_UMI  93 Eastern Mediterranean     2000
+Lithuania                                          WB_UMI  97 Europe                    2000
+Luxembourg                                         WB_HI   91 Europe                    2000
+Madagascar                                         WB_LI   57 Africa                    2000
+Malawi                                             WB_LI   73 Africa                    2000
+Malaysia                                           WB_UMI  88 Western Pacific           2000
+Maldives                                           WB_LMI  99 South-East Asia           2000
+Mali                                               WB_LI   49 Africa                    2000
+Malta                                              WB_HI   74 Europe                    2000
+Marshall Islands                                   WB_LMI  94 Western Pacific           2000
+Mauritania                                         WB_LI   46 Africa                    2000
+Mauritius                                          WB_UMI  84 Africa                    2000
+Mexico                                             WB_UMI  96 Americas                  2000
+Micronesia (Federated States of)                   WB_LMI  85 Western Pacific           2000
+Monaco                                             WB_HI   99 Europe                    2000
+Mongolia                                           WB_LMI  92 Western Pacific           2000
+Morocco                                            WB_LMI  93 Eastern Mediterranean     2000
+Mozambique                                         WB_LI   71 Africa                    2000
+Myanmar                                            WB_LI   84 South-East Asia           2000
+Namibia                                            WB_UMI  69 Africa                    2000
+Nauru                                              WB_HI    8 Western Pacific           2000
+Nepal                                              WB_LI   71 South-East Asia           2000
+Netherlands                                        WB_HI   96 Europe                    2000
+New Zealand                                        WB_HI   85 Western Pacific           2000
+Nicaragua                                          WB_LMI  86 Americas                  2000
+Niger                                              WB_LI   37 Africa                    2000
+Nigeria                                            WB_LMI  33 Africa                    2000
+Niue                                               WB_LI   99 Western Pacific           2000
+Norway                                             WB_HI   88 Europe                    2000
+Oman                                               WB_HI   99 Eastern Mediterranean     2000
+Pakistan                                           WB_LMI  59 Eastern Mediterranean     2000
+Palau                                              WB_UMI  83 Western Pacific           2000
+Panama                                             WB_UMI  97 Americas                  2000
+Papua New Guinea                                   WB_LMI  62 Western Pacific           2000
+Paraguay                                           WB_LMI  92 Americas                  2000
+Peru                                               WB_UMI  97 Americas                  2000
+Philippines                                        WB_LMI  78 Western Pacific           2000
+Poland                                             WB_UMI  97 Europe                    2000
+Portugal                                           WB_HI   87 Europe                    2000
+Qatar                                              WB_HI   91 Eastern Mediterranean     2000
+Republic of Korea                                  WB_HI   95 Western Pacific           2000
+Republic of Moldova                                WB_LMI  89 Europe                    2000
+Romania                                            WB_UMI  98 Europe                    2000
+Russian Federation                                 WB_UMI  97 Europe                    2000
+Rwanda                                             WB_LI   74 Africa                    2000
+Saint Kitts and Nevis                              WB_UMI  99 Americas                  2000
+Saint Lucia                                        WB_UMI  88 Americas                  2000
+Saint Vincent and the Grenadines                   WB_UMI  96 Americas                  2000
+Samoa                                              WB_LMI  93 Western Pacific           2000
+San Marino                                         WB_HI   74 Europe                    2000
+Sao Tome and Principe                              WB_LMI  69 Africa                    2000
+Saudi Arabia                                       WB_HI   94 Eastern Mediterranean     2000
+Senegal                                            WB_LI   48 Africa                    2000
+Serbia                                             WB_UMI  89 Europe                    2000
+Seychelles                                         WB_UMI  97 Africa                    2000
+Sierra Leone                                       WB_LI   37 Africa                    2000
+Singapore                                          WB_HI   96 Western Pacific           2000
+Slovakia                                           WB_HI   98 Europe                    2000
+Slovenia                                           WB_HI   95 Europe                    2000
+Solomon Islands                                    WB_LMI  85 Western Pacific           2000
+Somalia                                            WB_LI   24 Eastern Mediterranean     2000
+South Africa                                       WB_UMI  72 Africa                    2000
+Spain                                              WB_HI   94 Europe                    2000
+Sri Lanka                                          WB_LMI  99 South-East Asia           2000
+Sudan                                              WB_LMI  58 Eastern Mediterranean     2000
+Suriname                                           WB_UMI  84 Americas                  2000
+Swaziland                                          WB_LMI  92 Africa                    2000
+Sweden                                             WB_HI   91 Europe                    2000
+Switzerland                                        WB_HI   81 Europe                    2000
+Syrian Arab Republic                               WB_LMI  84 Eastern Mediterranean     2000
+Tajikistan                                         WB_LI   88 Europe                    2000
+Thailand                                           WB_LMI  94 South-East Asia           2000
+The former Yugoslav Republic of Macedonia          WB_UMI  97 Europe                    2000
+Togo                                               WB_LI   58 Africa                    2000
+Tonga                                              WB_LMI  95 Western Pacific           2000
+Trinidad and Tobago                                WB_HI   90 Americas                  2000
+Tunisia                                            WB_LMI  95 Eastern Mediterranean     2000
+Turkey                                             WB_UMI  87 Europe                    2000
+Turkmenistan                                       WB_LMI  96 Europe                    2000
+Tuvalu                                             WB_UMI  81 Western Pacific           2000
+Uganda                                             WB_LI   57 Africa                    2000
+Ukraine                                            WB_LMI  99 Europe                    2000
+United Arab Emirates                               WB_HI   94 Eastern Mediterranean     2000
+United Kingdom                                     WB_HI   88 Europe                    2000
+United Republic of Tanzania                        WB_LI   78 Africa                    2000
+United States of America                           WB_HI   91 Americas                  2000
+Uruguay                                            WB_UMI  89 Americas                  2000
+Uzbekistan                                         WB_LI   99 Europe                    2000
+Vanuatu                                            WB_LMI  61 Western Pacific           2000
+Venezuela (Bolivarian Republic of)                 WB_UMI  84 Americas                  2000
+Viet Nam                                           WB_LI   97 Western Pacific           2000
+Yemen                                              WB_LI   71 Eastern Mediterranean     2000
+Zambia                                             WB_LI   85 Africa                    2000
+Zimbabwe                                           WB_LI   75 Africa                    2000
